@@ -1,0 +1,10 @@
+D:\Documentos\GitHub\BrasilEF\BrasilEF\BrasilEF\bin\Debug\BrasilEF.exe.config
+D:\Documentos\GitHub\BrasilEF\BrasilEF\BrasilEF\bin\Debug\BrasilEF.exe
+D:\Documentos\GitHub\BrasilEF\BrasilEF\BrasilEF\bin\Debug\BrasilEF.pdb
+D:\Documentos\GitHub\BrasilEF\BrasilEF\BrasilEF\bin\Debug\EntityFramework.dll
+D:\Documentos\GitHub\BrasilEF\BrasilEF\BrasilEF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documentos\GitHub\BrasilEF\BrasilEF\BrasilEF\bin\Debug\EntityFramework.xml
+D:\Documentos\GitHub\BrasilEF\BrasilEF\BrasilEF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documentos\GitHub\BrasilEF\BrasilEF\BrasilEF\obj\Debug\BrasilEF.csprojResolveAssemblyReference.cache
+D:\Documentos\GitHub\BrasilEF\BrasilEF\BrasilEF\obj\Debug\BrasilEF.exe
+D:\Documentos\GitHub\BrasilEF\BrasilEF\BrasilEF\obj\Debug\BrasilEF.pdb
